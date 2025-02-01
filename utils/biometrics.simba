@@ -555,4 +555,3 @@ begin
   else
     Mouse.Click(MOUSE_LEFT);
 end;
-
