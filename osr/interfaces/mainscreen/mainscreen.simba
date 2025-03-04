@@ -99,8 +99,6 @@ begin
 end;
 
 
-
-
 (*
 ## MainScreen.GetAdjacentTiles
 ```pascal
@@ -461,4 +459,3 @@ begin
     Wait(25);
   until (GetTickCount() >= t);
 end;
-
